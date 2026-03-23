@@ -51,6 +51,11 @@ export default function Reveal() {
 
       {/* Message */}
       <div className="text-float text-center flex flex-col gap-3">
+         <p
+         className='text-black text-lg font-bold '
+        >
+          Happy Birthday ❤❤💞
+        </p>
         <p
          className='text-black text-lg font-bold '
         >
